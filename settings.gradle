@@ -1,0 +1,9 @@
+rootProject.name = 'ClientServer'
+include 'common'
+include 'server'
+include 'client'
+include 'sensor-app'
+include 'server-app'
+include 'monitor-web'
+include 'monitor-core'
+
